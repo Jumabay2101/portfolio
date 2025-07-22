@@ -13,7 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="tel:+99364834681" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phone/phone-original.svg" alt="Phone" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" alt="Phone" height="30" width="40" />
     <span>+99364834681</span>
   </a>
 </p>
